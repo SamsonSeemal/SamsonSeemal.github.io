@@ -12209,6 +12209,7 @@ h5,
   transform: skewX(-20deg);
 }
 
+
 @media (max-width: 991.98px) {
   .owl-carousel.home-slider .slider-item .slider-text .one-third {
     width: 100%;
@@ -14112,3 +14113,7 @@ textarea.form-control {
   position: absolute;
   bottom: 0;
 }
+
+
+
+/* ************************************************************************************************************* */
